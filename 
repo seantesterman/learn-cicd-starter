@@ -1,0 +1,47 @@
+[33me29f369[m[33m ([m[1;36mHEAD -> [m[1;32maddtests[m[33m)[m Revert "Updated CD.yml with Docker Image and Google Cloud"
+[33m029d4c5[m[33m ([m[1;31morigin/addtests[m[33m)[m Updated CD.yml with Docker Image and Google Cloud
+[33m8b76325[m Updated CD.yml workflow
+[33m5ca7e69[m Updated CD.yml workflow
+[33mca7914d[m Updated CD.yml workflow
+[33m61d914b[m Added CD.yml workflow
+[33m42d4e61[m Fixed bugs to pass workflow tests
+[33m49bce1e[m CI Security Workflow Test
+[33mfbaf0d0[m CI Security Workflow Test
+[33me5beb9e[m CI Security Workflow Test
+[33m146263d[m Fixing function for staticcheck test
+[33m58a991c[m Submitting broken function check
+[33m1b41c46[m Added formatting check to workflow
+[33m1596477[m Added badge to README
+[33m9388269[m Added test coverage report
+[33m454c1fc[m Added GetAPIKey() test
+[33m8210f34[m change ci.yml
+[33md0aba23[m Add Github Workflows
+[33md9b0ede[m Update README
+[33m59115e6[m[33m ([m[1;32mmain[m[33m)[m Merge pull request #386 from bootdotdev/dh/update_go_version
+[33m56b2932[m update go version to 1.22
+[33mbcce6df[m Merge pull request #260 from bootdotdev/lw_turso
+[33m86874e2[m turso
+[33m2b337f9[m Merge pull request #224 from bootdotdev/ms_port_8080
+[33me5025da[m missed another 8000
+[33mc0bf11d[m Merge pull request #222 from bootdotdev/ms_port_8080
+[33m32d6e84[m change port to 8080
+[33madf875e[m Merge branch 'main' of https://github.com/bootdotdev/learn-cicd-starter
+[33mca79850[m shebang
+[33m23fa9fb[m Update README.md
+[33ma4c32fd[m Update README.md
+[33ma80b530[m Merge pull request #6 from bootdotdev/patch-expected-content
+[33m9a73b32[m match expected starting code state for learn ci/cd ch7ass5-custom_cd
+[33me010641[m Merge pull request #5 from bootdotdev/patch-config-system
+[33m6188cd2[m update missing config file message
+[33mde9122f[m warn rather than bail on missing config file
+[33m57e5fde[m small updates
+[33mfc8dac2[m buildprod script
+[33m2b5e5be[m add docker file
+[33m54f2946[m fix some security issues
+[33m307c73e[m embed
+[33mb0391b3[m readme
+[33m3e9c740[m readme
+[33m6cc391c[m notely
+[33me2c8b1b[m working notely
+[33m80ec635[m kinda working
+[33m7d1852d[m Initial commit
