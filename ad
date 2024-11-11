@@ -1,0 +1,192 @@
+[33mcommit d9b0edeafce503051e58614ba33377e08e410909[m[33m ([m[1;36mHEAD -> [m[1;32maddtests[m[33m)[m
+Author: seantesterman <seantesterman@gmail.com>
+Date:   Sun Nov 10 18:18:03 2024 -0700
+
+    Update README
+
+[33mcommit 59115e60e9e3bec611390f67ad40c6b2bd696db5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/addtests[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: bcce6df 56b2932
+Author: Dan Hjartland <squashical@gmail.com>
+Date:   Wed May 22 20:30:59 2024 +0200
+
+    Merge pull request #386 from bootdotdev/dh/update_go_version
+    
+    update go version to 1.22
+
+[33mcommit 56b29326bb9b1f3030ec2e2b7c1cfe33ba819e87[m
+Author: Daniel Hjartland <squashical@gmail.com>
+Date:   Wed May 22 19:44:41 2024 +0200
+
+    update go version to 1.22
+
+[33mcommit bcce6df1b023b0bc229b69d8ec653c448c7c301a[m
+Merge: 2b337f9 86874e2
+Author: Lane Wagner <lane.c.wagner@gmail.com>
+Date:   Thu Mar 7 10:48:18 2024 -0700
+
+    Merge pull request #260 from bootdotdev/lw_turso
+    
+    turso
+
+[33mcommit 86874e2f9e1398e4ee7400ab6b6d9c1727d9acad[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Thu Mar 7 09:48:38 2024 -0700
+
+    turso
+
+[33mcommit 2b337f9f0fb6992e86d30aba8f019531db360243[m
+Merge: c0bf11d e5025da
+Author: Matt Skovranek <59619403+skovranek@users.noreply.github.com>
+Date:   Sun Feb 11 06:07:33 2024 -0800
+
+    Merge pull request #224 from bootdotdev/ms_port_8080
+    
+    edit README.md: 8000 --> 8080
+
+[33mcommit e5025dab1db8b9bf0bd338a2fbe1ef9cc8361ec1[m
+Author: skovranek <59619403+skovranek@users.noreply.github.com>
+Date:   Sun Feb 11 09:03:36 2024 -0500
+
+    missed another 8000
+
+[33mcommit c0bf11d2c8c7a97a07aa652cc9dd03d01db95a33[m
+Merge: adf875e 32d6e84
+Author: Matt Skovranek <59619403+skovranek@users.noreply.github.com>
+Date:   Sat Feb 10 18:37:24 2024 -0800
+
+    Merge pull request #222 from bootdotdev/ms_port_8080
+    
+    change port to 8080
+
+[33mcommit 32d6e845cfd9827444852fd4e9dc9dbd1aa2364b[m
+Author: skovranek <59619403+skovranek@users.noreply.github.com>
+Date:   Sat Feb 10 21:26:06 2024 -0500
+
+    change port to 8080
+
+[33mcommit adf875e592780bac884ab6f9a6c7a19e4d6f5de2[m
+Merge: ca79850 23fa9fb
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Thu Oct 19 17:12:50 2023 -0600
+
+    Merge branch 'main' of https://github.com/bootdotdev/learn-cicd-starter
+
+[33mcommit ca79850ef1d8199f99b78f26503cdd7d7fe01c18[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Thu Oct 19 17:12:36 2023 -0600
+
+    shebang
+
+[33mcommit 23fa9fb37715afa8cb7c5cf73a3816dc9841a2cb[m
+Author: Lane Wagner <lane.c.wagner@gmail.com>
+Date:   Sun Jul 9 14:18:47 2023 -0600
+
+    Update README.md
+
+[33mcommit a4c32fdbd8ea1d0b9a7f60dcfdaea1df87f1789c[m
+Author: Lane Wagner <lane.c.wagner@gmail.com>
+Date:   Sun Jul 9 14:17:02 2023 -0600
+
+    Update README.md
+
+[33mcommit a80b530f47fc7b6eaf1bf49f9a295dd0d5c5a65d[m
+Merge: e010641 9a73b32
+Author: Andrew <andrew.pennebaker@gmail.com>
+Date:   Thu Jul 6 11:16:28 2023 -0500
+
+    Merge pull request #6 from bootdotdev/patch-expected-content
+    
+    match expected starting code state for learn ci/cd ch7ass5-custom_cd
+
+[33mcommit 9a73b32471ac8a76d8f0b5413b40a7ae820034a4[m
+Author: Andrew Pennebaker <andrew.pennebaker@gmail.com>
+Date:   Thu Jul 6 10:28:04 2023 -0500
+
+    match expected starting code state for learn ci/cd ch7ass5-custom_cd
+
+[33mcommit e010641ced165f8b542b87c472d6e092dd0eb4b3[m
+Merge: 57e5fde 6188cd2
+Author: Andrew <andrew.pennebaker@gmail.com>
+Date:   Wed Jul 5 15:12:05 2023 -0500
+
+    Merge pull request #5 from bootdotdev/patch-config-system
+    
+    warn rather than bail on missing config file
+
+[33mcommit 6188cd27f5d162159a442921b962c56e07cc9541[m
+Author: Andrew Pennebaker <andrew.pennebaker@gmail.com>
+Date:   Wed Jul 5 14:45:48 2023 -0500
+
+    update missing config file message
+
+[33mcommit de9122f73ddb359d7cc6e87af1d12f11b034a6f4[m
+Author: Andrew Pennebaker <andrew.pennebaker@gmail.com>
+Date:   Wed Jul 5 14:41:33 2023 -0500
+
+    warn rather than bail on missing config file
+
+[33mcommit 57e5fde82fbd2378dbf3231741736851e357d719[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Mon Jun 12 16:06:12 2023 -0600
+
+    small updates
+
+[33mcommit fc8dac21d0835c586b69637614d4f76a4dfc2850[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Thu Jun 8 15:56:44 2023 -0600
+
+    buildprod script
+
+[33mcommit 2b5e5bedee1d0cab45caab3c189ed65e94763ea1[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Tue Jun 6 14:58:36 2023 -0600
+
+    add docker file
+
+[33mcommit 54f294659fe8409326eee785f3b5dffb0e72e7a6[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Tue Jun 6 13:33:22 2023 -0600
+
+    fix some security issues
+
+[33mcommit 307c73e1fb14cd9e0f20b6dea26913af044c9873[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Tue Jun 6 09:26:16 2023 -0600
+
+    embed
+
+[33mcommit b0391b3609bc313af4122c21d201061dfcbcf5fc[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Wed May 31 12:33:52 2023 -0600
+
+    readme
+
+[33mcommit 3e9c740d31ea1d299ae5fb1c7b0dde5422dcf5b7[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Wed May 31 12:31:25 2023 -0600
+
+    readme
+
+[33mcommit 6cc391ca7897ed8bfca52ba3b7ca08ca339975d9[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Tue May 30 21:43:42 2023 -0600
+
+    notely
+
+[33mcommit e2c8b1bcd93d8830629e5c1a21976610ca6b9364[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Tue May 30 21:42:09 2023 -0600
+
+    working notely
+
+[33mcommit 80ec6357056b15bc899232a8de7375791c1831ed[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Tue May 30 21:28:23 2023 -0600
+
+    kinda working
+
+[33mcommit 7d1852d3808b30d9427ee06514588d60949a129a[m
+Author: Lane Wagner <lane.c.wagner@gmail.com>
+Date:   Tue May 30 15:28:24 2023 -0600
+
+    Initial commit
