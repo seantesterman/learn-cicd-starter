@@ -22,7 +22,7 @@ jobs:
         run: go test ./... -cover
 
   security:
-    name: Seciroty
+    name: Security
     runs-on: ubuntu-latest
 
     steps:
@@ -35,7 +35,7 @@ jobs:
           go-version: '1.23.0'
 
       - name: Install gosec
-         run: go install github.com/securego/gosec/v2/cmd/gosec@latest
+        run: go install github.com/securego/gosec/v2/cmd/gosec@latest
   
   style: 
     name: Style
